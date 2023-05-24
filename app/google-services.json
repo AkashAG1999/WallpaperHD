@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115269620538",
+    "project_id": "wallpaper-hd-ea26e",
+    "storage_bucket": "wallpaper-hd-ea26e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115269620538:android:e69411f101fb1c9c1a7603",
+        "android_client_info": {
+          "package_name": "com.akash.wallpaperhd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115269620538-tb389dcngvklfa5dc76i380bknmdf8jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akash.wallpaperhd",
+            "certificate_hash": "eb1184e83d037a7b5cf6b807388305c55232cb56"
+          }
+        },
+        {
+          "client_id": "115269620538-k8idikdp6ofgm0ner869nked69k048q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4ym5buZefZnBqS5w370mn9pybZdKCk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115269620538-k8idikdp6ofgm0ner869nked69k048q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
