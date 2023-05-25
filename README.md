@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-- Wallpaper images are sourced from [Unsplash](https://pexels.com).
+- Wallpaper images are sourced from [Pexels](https://pexels.com).
 - Icons from [Flaticon](https://www.flaticon.com).
 
 ## Contact
